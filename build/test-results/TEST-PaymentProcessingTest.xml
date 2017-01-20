@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PaymentProcessingTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-20T15:47:43" hostname="COMPOZED-G2-125" time="0.006">
+  <properties/>
+  <testcase name="CreatePP_Video" classname="PaymentProcessingTest" time="0.003"/>
+  <testcase name="CreatePP_membershipUpgrade" classname="PaymentProcessingTest" time="0.002"/>
+  <testcase name="CreatePP_Initialize" classname="PaymentProcessingTest" time="0.001"/>
+  <testcase name="CreatePP_membership" classname="PaymentProcessingTest" time="0.0"/>
+  <system-out><![CDATA[*****************CreatePP_Video*************************
+Packing Slip
+Add Free Video
+Add Commision
+*******************************************
+*******************CreatePP_membershipUpgrade**********************
+Activate Membership
+Upgrade Membership
+Email Folks
+******************************************
+********************CreatePP_Initialize**********************
+Packing Slip
+Duplicate Packaging Slip
+Add Commision
+******************************************
+
+*****************CreatePP_membership*************************
+Activate Membership
+Email Folks
+******************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
